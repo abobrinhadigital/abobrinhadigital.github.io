@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+  Sempre quis ter um blog, mas sejamos sinceros: escrever é chato demais. Tem que organizar ideias, revisar o texto... ARGH!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+  Imaginando que falar é mais fácil do que digitar, resolvi usar a tecnologia a meu favor. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+  Agora eu falo qualquer 'abobrinha', o Whisper transcreve, o Gemini organiza a bagunça, e você lê o resultado final. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+  É tecnologia servindo à preguiça — ou melhor, à produtividade.

@@ -1,2 +1,12 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.social-links {
+  text-align: left;
+  margin-top: 15px;
+
+  /* Anula a centralização automática da lista (ul) dentro da div */
+  .social-media-list {
+    margin-left: 0;
+  }  
+}
