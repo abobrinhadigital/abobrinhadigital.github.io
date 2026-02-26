@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre este Antro de Abobrinhas
+title: Sobre o site
 permalink: /about/
 ---
 
