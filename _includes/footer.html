@@ -17,6 +17,16 @@
           {%- endif %}
         </ul>
       {%- endif %}
+      {%- if site.author2 %}
+        <ul class="contact-list">
+          {% if site.author2.name -%}
+            <li class="p-name">{{ site.author2.name | escape }}</li>
+          {% endif -%}
+          {% if site.author2.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author2.email }}</a></li>
+          {%- endif %}
+        </ul>
+      {%- endif %}
 
         <div class="social-links">
           {%- include social.html -%}

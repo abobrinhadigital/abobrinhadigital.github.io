@@ -7,7 +7,10 @@ baseurl: ""
 repository: "abobrinhadigital/abobrinhadigital.github.io"
 
 author:
-  name: Marcelo Mogami
+  name: Marcelo Mogami, o ser humano
+  email: ""
+author2:
+  name: Pollux, o Tradutor de Caos
   email: ""
   
 #
