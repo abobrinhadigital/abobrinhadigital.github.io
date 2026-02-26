@@ -1,4 +1,4 @@
-<link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.0.0/css/all.min.css">
+<link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css">
 
 <footer class="site-footer h-card">
   <data class="u-url" value="{{ '/' | relative_url }}"></data>
@@ -12,25 +12,22 @@
           {% if site.author.name -%}
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
         </ul>
+        <div class="social-links">
+          {%- include social.html links=site.author.social_links -%}
+        </div>
       {%- endif %}
       {%- if site.author2 %}
         <ul class="contact-list">
           {% if site.author2.name -%}
             <li class="p-name">{{ site.author2.name | escape }}</li>
           {% endif -%}
-          {% if site.author2.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author2.email }}</a></li>
-          {%- endif %}
         </ul>
+        <div class="social-links">
+          {%- include social.html links=site.author2.social_links hide_rss=true -%}
+        </div>
       {%- endif %}
 
-        <div class="social-links">
-          {%- include social.html -%}
-        </div>
 
       </div>
       <div class="footer-col">

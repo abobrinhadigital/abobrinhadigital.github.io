@@ -3,10 +3,19 @@
 
 .social-links {
   text-align: left;
-  margin-top: 15px;
+  margin-top: 0;
 
   /* Anula a centralização automática da lista (ul) dentro da div */
   .social-media-list {
     margin-left: 0;
   }  
+}
+/* Remove a margem invisível que empurrava os ícones para baixo */
+.footer-col .contact-list {
+  margin-bottom: 0;
+}
+
+/* 2. Separando os autores (aplica margem no segundo autor) */
+.social-links + .contact-list {
+  margin-top: 25px;
 }

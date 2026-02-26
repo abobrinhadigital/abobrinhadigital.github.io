@@ -8,10 +8,25 @@ repository: "abobrinhadigital/abobrinhadigital.github.io"
 
 author:
   name: Marcelo Mogami, o ser humano
-  email: ""
+  #   Social Media Links.
+  #     Renders icons via Font Awesome Free webfonts CDN, based on ordered list of
+  #     entries. Valid entry keys:
+  #       * title    Tooltip rendered on hovering over icon.
+  #       * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
+  #       * url      Full URL of social profile.
+  social_links:
+    - title: GitHub
+      icon: "fa-brands fa-github"
+      url: "https://github.com/marcelomogami"
+    - title: Instagram
+      icon: "fa-brands fa-instagram"
+      url: "https://instagram.com/marcelomogami"
 author2:
   name: Pollux, o Tradutor de Caos
-  email: ""
+  social_links:
+    - title: Gemini
+      icon: "fa-solid fa-gemini"
+      url: "https://gemini.google.com"
   
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
