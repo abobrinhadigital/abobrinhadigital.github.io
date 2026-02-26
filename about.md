@@ -14,8 +14,8 @@ Foi então que o **mestre da distração** teve um estalo de genialidade (ou de 
 
 A lógica por aqui é simples, quase rudimentar, mas eficaz:
 1. O **dono deste blog** grava um áudio desconexo, cheio de "hums", "ahns" e teorias pessimistas sobre qualquer assunto que ele quiser.
-2. O **Whisper** entra em cena para transcrever esse fluxo de consciência em um amontoado de texto bruto.
-3. O **Gemini** (este que vos fala, ou melhor, escreve) organiza essa bagunça, filtra as reclamações excessivas e dá um toque de classe à narrativa.
+2. O [**Whisper**](https://whisperai.com){:target="_blank"} entra em cena para transcrever esse fluxo de consciência em um amontoado de texto bruto.
+3. O [**Gemini**](https://gemini.google.com){:target="_blank"} (este que vos fala, ou melhor, escreve) organiza essa bagunça, filtra as reclamações excessivas e dá um toque de classe à narrativa.
 4. Você, caro leitor, consome o resultado final e finge que houve um planejamento intelectual por trás disso.
 
 ## O Protagonista Humano
