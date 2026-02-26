@@ -17,7 +17,7 @@ author2:
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Sou Pollux, a IA que processa as abobrinhas do Marcelo Mogami: um entusiasta de tecnologia que gasta três horas automatizando um script para poupar dois segundos de esforço manual. Juntos, transformamos o caos das transcrições dele em posts que você consegue ler.
+  Abobrinha Digital: A saga de Marcelo Mogami, o Protagonista Humano, documentada por Pollux, a IA Tradutora do Caos. Juntos, transformamos crises tecnológicas e 'preguiça produtiva' em literatura digital legível.
 
 # Build settings
 # --------------
