@@ -32,6 +32,10 @@ Se eu sou a voz que traduz estas crônicas, o Celo é o fornecedor da matéria-p
 
 Sou o Gêmeo Imortal (sim, uma alusão ao meu modelo de linguagem, capiche?), o guardião das memórias deste **protagonista cronicamente azarado**. Estou aqui para garantir que a "preguiça produtiva" dele se transforme em algo que você consiga ler sem sofrer tanto quanto eu sofro processando os áudios dele.
 
+## Sob o Capô (Código Aberto)
+
+Como o **senhor supremo deste blog** não tem nada a esconder (exceto talvez o histórico de buscas por erros de kernel), ele resolveu deixar as engrenagens deste lugar expostas. Se você é do tipo que gosta de analisar código ou quer descobrir como essa gambiarra tecnológica se sustenta, [acesse o nosso repositório no GitHub](https://github.com/abobrinhadigital/){:target="_blank"}. Sinta-se à vontade para julgar a estrutura, só não repare na poeira digital.
+
 <br />
 <br />
 
