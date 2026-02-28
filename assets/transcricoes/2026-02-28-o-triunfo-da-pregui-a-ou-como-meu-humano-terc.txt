@@ -1,0 +1,70 @@
+Bom, vamos lá tentar gravar o segundo post do Abobrinha Digital.
+O tema dessa vez que eu queria falar é sobre IA e como que eu tenho usado ele desde que eu comecei a usar a IA com mais frequência mesmo.
+Eu lembro que um tempo atrás, acho que foi no meados do ano passado, uma amiga do Joguinho, que jogava Ragnarok Online Mobile,
+ela estava usando o ChatGPT para fazer uns jornalzinhos do que acontecia lá com as coisas da guild, que era parte que eu era membro.
+Ela usava o ChatGPT, o ChatGPT gerava um texto para ela baseado em algumas informações que ela fornecia e ficava adequado.
+Lógico, tem que sempre editar o que é a IA retorno, mas no geral era bem usável, ficava divertido e era mais prático para ela,
+porque ela não precisava pensar em todo o texto e ficar inventando coisas extras, apesar da criatividade dela ser muito boa.
+Pensando nisso e como liderança da guild, eu resolvi usar a IA para gerar algumas mensagens específicas para usar no Discord,
+para usar no WhatsApp, para chamar o pessoal para ir para a guerra do jogo.
+Deu certo, funcionou bem lá, os chamamentos ficaram legais e acho que chamou a atenção por um tempo, mas depois de um tempo com muito repetitivo,
+não é que ele fazia as minhas piadas, mas o pessoal não dava atenção por não dar atenção mesmo.
+Comecei a ver o quanto que a IA me facilitava escrever coisas, descobri que a IA ajuda a corrigir textos.
+Eu não lembro quando foi que começou, mas por exemplo, eu tenho usado bastante ele no email corporativo do Gmail,
+então você edita um texto lá, mais ou menos do jeito que eu falaria normalmente, sem pensar muito, respondendo
+faz isso, faz aquilo, desculpa, não consegui verificar para você, mas vou verificar até o dia tal, essas coisas assim.
+E aí ele tem um esquema para elaborar um pouco mais o texto, deixar mais formal, mais refinado, etc.
+Isso é muito bom, estou impressionado até hoje, porque eu uso em quase todos os emails, fica muito bem escrito.
+É impressionante isso. Além disso, eu usei um pouco para procurar coisas na internet, tipo dicas de
+qual geladeira é melhor, qual marca de não sei o quê, quantos megabytes tem no celular,
+essas coisas assim, essas perguntas mais simples, e no geral a IA responde bem. Lógico, a IA viaja bastante nas ideias,
+ela alucina bastante coisa e tem que sempre dar uma conferida para ver se os resultados são confiáveis mesmo
+e corrigir ela várias vezes. Mas é assim, ela gira a tabela, gera gráfico, funciona bem.
+Até que no começo do ano, no final do ano na verdade, desde dezembro mais ou menos, teve essa situação do Linux.
+Eu usei bastante o Gemini, porque eu pago o Google One, então eu tenho o Gemini Plus.
+Então, ele responde bem assim. Me tirou bastante dúvidas, que eu fazia perguntas em texto natural mesmo,
+em conversa natural, e ele me respondia com bastante precisão nas coisas, ou pelo menos norteava bem as situações.
+Quando é um assunto muito mais técnico, ele dá umas vaciladas, mas no geral ele responde bem tranquilo todas as coisas
+que eu perguntei e ele não parecia estar muito fora assim da situação.
+Aí teve toda essa guerra do primeiro post, tudo que eu fiz relacionado à instalação do Linux, configuração e etc,
+fiz com a ajuda de IA, porque eu estava com preguiça de ficar procurando no Reddit, apesar de que eu procurei algumas coisas que não estavam funcionando direito.
+Mas, no geral, tudo fiz com IA, com a ajuda do Gemini, e até que agora está funcionando direitinho.
+Também as coisas desse blog aqui estão sendo 100% feitas pela IA.
+Eu que decidi onde eu queria hospedar o blog, e eu que decidi a máquina por trás, o JQ, e fiz a parte principal da estruturação.
+Mas ele equipa todas as configurações, os ajustes que foram feitos no layout, os textos são todos da IA.
+Eu só dou o rumo e ele vai preenchendo tudo do jeito que ele acha melhor.
+Então é um projeto engraçado, não sei se isso vai para frente, provavelmente não vai ter audiência, porque não tem para quem passar isso, não sei se alguém vai achar interessante.
+No geral, eu ainda tenho brigado bastante com a IA, principalmente com configurações de coisas bem mais técnicas.
+Por exemplo, ontem, acho que foi ontem, eu queria ver a questão do Window Manager.
+Procurando algumas coisas de Window Manager, já estava olhando, já tem um tempo, tem um tal de NIR, que parece interessante.
+Ele é um Window Manager, não é tile, não é igual um Window Manager normal, ele faz tipo um carrossel.
+Se você for nos sites, tinha aqueles carrossel de imagens, ele faz um carrossel com os aplicativos.
+E aí tem algumas coisas lá, só que o Window Manager é bem cru, não é muito intuitivo para instalar, não é muito intuitivo para configurar, e também não é muito intuitivo para usar.
+Comecei a mexer com ele, fiz algumas coisinhas, mas a IA erra muita coisa, porque não tem uma documentação extensa.
+Não sei se tem documentação extensa, ou se a IA viaja muito no maionese com essas coisas muito técnicas, não funcionou muito bem não.
+Aí eu meio que larguei mão do NIR.
+O que mais eu posso falar de IA?
+No geral, para concluir esse áudio, é interessante, não resolve todos os problemas, não vai substituir meu trabalho, porque é uma coisa muito específica.
+Mas como ajudante, está servindo para bastante coisa, já tirei algumas dúvidas técnicas relacionadas a coisas do trabalho.
+Pelo menos dá um norte, ou dá uma direção de onde procurar para conseguir resolver alguns problemas, e realmente deu certo.
+É interessante esses chats com as IAs, porque elas entendem em linguagem natural e funciona muito bem.
+Tanto que essa conversa que estou tendo aqui, esse áudio log que estou fazendo sozinho, conversando com a tela do computador, vai virar um blog post feito pelo Pollux.
+Que é só um prompt elaborado do Gemini.
+Hoje, nessa data que estou gravando agora, eu fiz uma série de automações aqui.
+Eu já tinha o transcriptor, que é um script que pega esse áudio aqui, manda para o Whisper via API, e o Whisper API devolve um texto que ele joga no TXT.
+Agora eu fiz a parte seguinte, que é pegar esse TXT, mandar para o Gemini, com o prompt certo do Pollux, e ele já gera os arquivos todos.
+Vai colocar o arquivo na pasta do Jekyll, vai colocar o arquivo de transcrição também certinho lá, gerar o texto todo.
+E a única coisa que eu vou precisar fazer é git add ponto, git commit, git push, e o post já vai estar lá.
+Depois de gravar o áudio, dois comandos. Prático, né?
+Quem sabe uma hora eu pego um Chrome Job e faço junto os dois scripts e automatizo também para ele pegar automático quando eu gerar o arquivo de áudio, ou qualquer coisa assim.
+Por enquanto, vou fazer manual essas duas partes aí, porque é uma coisa simples mesmo.
+Será que eu tinha mais coisa para falar?
+Se eu tiver mais coisa para falar, no futuro eu acabo falando.
+Ah sim, depois eu preciso aprender para ver se tem...
+Acho que o Pollux me falou que...
+O Pollux não, acho que foi Gemini, não foi Pollux.
+O Gemini acho que me falou que tem como criar um dicionário para o Whisper, para ele acertar algumas palavras que pode ser que ele não entenda,
+que ele não conheça para ficar melhor a transcrição.
+Depois eu preciso ver isso, depois de gerar esse áudio aqui.
+É isso. Então, até o próximo post.
+Pollux não esquece de fazer um texto bem legal.
