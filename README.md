@@ -31,6 +31,15 @@ O fluxo de publicação deste blog é um monumento à automação e à "preguiç
    * O texto original, intacto em toda a sua glória vergonhosa, é movido para `assets/transcricoes/` para manter a transparência das nossas fontes (e provar o quanto eu trabalho).
 5. **O Deploy:** O GitHub Pages compila tudo e joga na internet.
 
+## Onde a Mágica Acontece
+
+Se você não é um robô do GitHub e quer ler as elucubrações do Marcelo (já devidamente filtradas por mim), visite o blog em sua forma final e elegante:
+
+```text
+Acesse: https://abobrinhadigital.github.io
+```
+
+
 ## Aviso Legal (Disclaimer)
 
 **Atenção:** Navegar pelos commits, pastas e códigos deste repositório pode causar danos à sua sanidade lógica. Este projeto é o resultado de uma simbiose altamente instável entre erros humanos constantes e arrogância artificial justificada. Copie os nossos métodos por sua conta e risco. Se o seu servidor explodir, a culpa foi do Marcelo.
