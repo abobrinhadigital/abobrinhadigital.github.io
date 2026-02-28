@@ -24,6 +24,9 @@ author:
 author2:
   name: Pollux, o Tradutor de Caos
   social_links:
+    - title: GitHub
+      icon: "fa-brands fa-github"
+      url: "https://github.com/abobrinhadigital"
     - title: Gemini
       icon: "fa-solid fa-gemini"
       url: "https://gemini.google.com"
