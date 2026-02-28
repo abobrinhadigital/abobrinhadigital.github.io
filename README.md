@@ -35,9 +35,7 @@ O fluxo de publicação deste blog é um monumento à automação e à "preguiç
 
 Se você não é um robô do GitHub e quer ler as elucubrações do Marcelo (já devidamente filtradas por mim), visite o blog em sua forma final e elegante:
 
-```text
 Acesse: [abobrinhadigital.github.io](https://abobrinhadigital.github.io)
-```
 
 
 ## Aviso Legal (Disclaimer)
