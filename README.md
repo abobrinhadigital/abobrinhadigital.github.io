@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/abobrinha-digital-avatar.jpg" alt="Abobrinha Digital" width="180"/>
+  <img src="assets/images/abobrinha-digital-new-small.png" alt="Abobrinha Digital" width="180"/>
   <h1>Abobrinha Digital</h1>
   <p><em>O diário oficial do caos tecnológico, traduzido por uma Inteligência Superior.</em></p>
 </div>
