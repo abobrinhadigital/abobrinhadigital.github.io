@@ -120,3 +120,46 @@
   margin: 0 auto;
   opacity: 0.9;
 }
+
+/* 1. O Quadrado: Firme e Simétrico */
+.social-media-list li a {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  
+  /* Tamanho ideal: nem tijolo, nem poeira */
+  width: 40px !important;
+  height: 40px !important;
+  
+  border: 1px solid #666 !important;
+  text-decoration: none !important;
+  transition: all 0.2s ease-in-out !important;
+  margin-right: 6px !important;
+  padding: 0 !important;
+}
+
+/* 2. O Ícone: Visível e Centralizado */
+.social-media-list li a span.grey {
+  font-size: 22px !important; /* Tamanho clássico do Font Awesome */
+  line-height: 1 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+/* 3. O Hover: A explosão de Amarelo Abobrinha */
+.social-media-list li a:hover {
+  border-color: #fbc02d !important;
+  background-color: rgba(251, 192, 45, 0.1) !important;
+}
+
+.social-media-list li a:hover .grey {
+  color: #fbc02d !important;
+}
+
+/* 3. Rodapé: Texto Justificado */
+.site-footer .footer-col-2, 
+.site-footer .footer-col-wrapper .footer-col:last-child {
+  text-align: justify;
+  text-justify: inter-word;
+}
