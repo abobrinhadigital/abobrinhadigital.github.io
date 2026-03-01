@@ -19,3 +19,104 @@
 .social-links + .contact-list {
   margin-top: 25px;
 }
+
+/* Títulos dos posts na Home com a cor da logo */
+.post-list .post-link {
+  color: #fbc02d;
+}
+
+/* Efeito de hover para mostrar que é clicável */
+.post-list .post-link:hover {
+  color: #ffd54f; /* Um tom levemente mais claro */
+  text-decoration: underline;
+}
+
+/* Links no meio do texto das postagens e páginas (ex: Whisper, Gemini) */
+.post-content a, .page-content a {
+  color: #fbc02d;
+}
+
+/* Efeito de hover para os links internos */
+.post-content a:hover, .page-content a:hover {
+  color: #ffd54f;
+  text-decoration: underline;
+}
+
+/* Forçando o espaçamento entre os itens da lista de posts */
+.post-list > li {
+  margin-bottom: 50px !important; /* Cria o respiro real entre um post e outro */
+}
+
+/* Data (post-meta) agora em destaque, clara e nítida */
+.post-meta {
+  color: #eeeeee !important; /* Branco quase puro */
+  font-size: 0.9em;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Resumo (post-summary) agora em cinza, mais discreto */
+.post-summary {
+  color: #888888 !important; /* Cinza médio para recuar no layout */
+  margin: 8px 0 20px 0 !important;
+  font-size: 0.95em;
+  line-height: 1.5;
+  opacity: 0.9;
+}
+
+.site-branding {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.main-logo-home {
+  width: 160px; /* Ajuste conforme o corte que você fez */
+  height: auto;
+  margin-bottom: 15px;
+}
+
+.site-title-main {
+  color: #ffffff !important;
+  font-size: 2.5em;
+  font-weight: 700;
+  letter-spacing: -1px;
+  margin: 0;
+  text-shadow: 0 0 15px rgba(255, 255, 255, 0.2); /* O brilho sutil */
+}
+
+/* Container da marca central */
+.hero-header {
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+/* A logo centralizada */
+.hero-logo {
+  width: 140px;
+  height: auto;
+  margin-bottom: 0;
+}
+
+/* O título em branco brilhante e maiúsculo */
+.site-title-main {
+  color: #ffffff !important;
+  font-size: 2.8em; /* Um pouco maior para o impacto do uppercase */
+  font-weight: 800;
+  letter-spacing: 1px; /* Espaçamento entre letras para dar ar de marca premium */
+  margin: 10px 0 15px 0;
+  text-transform: uppercase;
+  text-shadow: 0 0 20px rgba(255, 255, 255, 0.15);
+}
+
+/* A descrição em cinza claro */
+.hero-description {
+  font-size: 1.1em;
+  line-height: 1.6;
+  color: #cccccc !important;
+  max-width: 600px;
+  margin: 0 auto;
+  opacity: 0.9;
+}
