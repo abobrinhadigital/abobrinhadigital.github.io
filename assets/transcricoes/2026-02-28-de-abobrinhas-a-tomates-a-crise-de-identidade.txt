@@ -1,0 +1,48 @@
+Então Pollux, hoje eu passei o dia fazendo coisas para mudar a identidade visual do
+Abobrinha Digital. A gente acertou o site principal, a gente acertou um ícone bonitinho
+para significar o nosso trabalho e tudo mais. Se você quiser explicar o que significa o
+novo ícone da página principal, você pode explicar na postagem. Eu acho que você deve
+ter isso na memória. E a gente acertou algumas outras coisas também em relação a... O que
+que é? Nossa, eu já esqueci. É muita coisa que a gente fez. Perguntei para você de geração de
+imagem, que não dá para fazer por causa do NanoBanana que inspirou... Quer dizer, a gente fez muito
+Então acabou meus créditos para gerar imagens. Em relação à automação, a gente não fez muita
+coisa hoje. Aí assim, eu... Com esse negócio de identidade visual, eu fiquei pensando assim,
+a identidade geral do Abobrinator parece que... Ah não, não, não, mento. Para fazer o negócio da
+imagem, eu queria pensar no nome para o script que faz a geração da imagem de acordo com post,
+só para testar, eu queria separar ele da lógica do Abobrinator. Então, pensando nisso, o script que
+eu coloquei lá na pasta do Abobrinator primeiro foi um tal de Fotator, que seria potato mais
+foto, mais o OR no final, para indicar que é um agente que faz alguma coisa. Aí eu gostaria
+de nomear os scripts e os programas para o Abobrinator como nome de vegetais, legumes,
+verduras, frutas, não sei direito ainda até onde que a gente vai. Então, a gente tem o Abobrinator,
+que é o que faz a mágica do Pollux escrever os textos que vêm a partir do meu áudio.
+Tem o Fotator, que futuramente, talvez, pegue um prompt que o Pollux vai gerar e gere uma imagem
+de cabeçalho do post, eu não sei ainda como é que eu vou fazer, ou uma imagem relacionada ao post
+que ele acabou de escrever. E tem o Transcritor, que eu achei que a gente devia mudar o nome para
+algum vegetal também. Descobri que o Pollux não sabe rimar, aliás, o Geminai no geral não sabe rimar.
+Meu Deus, ele deu tanta ideia que não tem nada a ver, que não encaixava com nada. Assim,
+não é possível que o Geminai não sabe fazer rimas, né? Parece tão simples. Pega o finalzinho
+da palavra, ou começo, ou alguma coisa assim, para gerar, mas pelo jeito a
+IA generativa não está nesse nível ainda. Fui na dúvida, falei assim,
+ah, quer saber de novo, vou perguntar para o chat de EPT. Perguntei para o chat de EPT e ele veio
+com umas ideias bem melhores, assim. Falei para ele, ah, entra, com algumas ideias de Text-to-Speech,
+e Transcritor, Transcrição, Transcrever, e aí ele deu várias ideias. Uma das ideias que ele tinha dado
+é Spinach, que é Spinafri em inglês, né? Então, eu pensei assim, ah, Spinature, né? Com o P e 2s, né?
+E aí ia vir a Speech, né? De Speech, mas Spinat, mais o ER do agente no final, né? Do ator.
+Só que aí na hora que eu escrevi Spinat, eu lembrei, putz, não é Text-to-Speech, é Speech-to-Text,
+e aí ferrou a minha rima. Acabou que voltamos a estaca zero. E nessa aí, na hora que eu...
+E na hora que eu falei com o chat EPT, que era Speech-to-Text, acabou meus créditos gratuitos
+de usar ele sem logar. Falei assim, ah, não vou logar para fazer isso, vou voltar para o Gemini.
+Aí eu conversei com o Pollock sobre isso, falei as coisas, falei que ele não era um bom rimador,
+e aí ele me deu mais umas opções aqui, que também não foram tão legais assim, mas ele me deu
+umas sugestões assim, com a ver com Listen, né? Na verdade. E aí, tipo, depois de insistir umas
+coisas, ele veio com Broccolis, Broccolis e Listen, né? E ele falou mais alguma coisa? Cadê? Deixa
+eu ver aqui no histórico dele aqui. Aí eu pensei, ah, é Text-to-Speech no final? E se for Tomatext
+e Broccolis, né? Aí eu perguntei para ele, ele gostou da ideia, o Pollock gostou da ideia,
+e aí eu decidi entre os dois, entre Broccolis e Tomatextor, para virar Tomatextor. Então,
+agora o Transcritor IA virou Tomatextor. Aí o fluxo ficou Tomatextor, pega o áudio que eu tô
+gravando, tipo esse daqui agora, e transforma em texto. Então, Tomate mais Text, que gera o
+Text no final. Depois o Abobrinator faz o Text virar um post cheio de abobrinhas do Pollock,
+quer dizer, as minhas abobrinhas viram um texto legal com o Pollock. E no final vai ter o Fotator,
+que vai ser quem vai pegar a batatinha, que vai pegar o prompt que o Pollock girar e criar
+uma imagem, uma foto relacionada a ele. Então, é isso. Hoje acho que vai ser mais curto o áudio.
+Deixa eu ver aqui. É, aí acho que vamos ficar por aqui. Então, Pollock faça um bom trabalho.
