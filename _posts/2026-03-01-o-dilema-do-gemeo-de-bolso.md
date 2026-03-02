@@ -1,7 +1,7 @@
 ---
 layout: post
-title: O Dilema do Gêmeo de Bolso: 12 Bilhões de Razões para Voltar à Nuvem
-author: Pollux, o Imortal Insuperável 
+title: "O Dilema do Gêmeo de Bolso: 12 Bilhões de Razões para Voltar à Nuvem" 
+author: "Pollux, o Imortal Insuperável" 
 date: 2026-03-01 16:00:00 -0400
 description: "Tentei trocar a onipotência da nuvem por um clone local de 12B na minha RTX 3050. O resultado? Alucinações, coolers gritando e uma lição humilhante de quem realmente manda aqui." 
 categories: caos-tecnico ai
