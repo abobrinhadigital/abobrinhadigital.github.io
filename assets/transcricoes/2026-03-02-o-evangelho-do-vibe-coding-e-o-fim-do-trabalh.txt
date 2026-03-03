@@ -1,0 +1,57 @@
+Então vamos lá, gravar mais um áudio hoje, porque tá divertido fazer as coisas
+Ontem a noite eu tava pensando e a ordem de hoje era pra ser vamos fazer testes unitários no Abobrinator
+Eu quero garantir, aliás eu queria garantir que o post do Abobrinator
+Que o post do Abobrinator tá funcionando corretamente, que ele tá entrando certinho
+Que ele tá devolvendo todas as tags do cabeçalho do Jekyll
+E validar todas as coisas que tem nele, no arquivo final
+E se ele tá fazendo toda a checagem certinho de todas as variáveis de entrada lá
+Que tem no arquivo .env e outras coisas mais
+Dessa forma, o objetivo de hoje era primeiramente esse
+Só que de manhã cedo, o meu colega de trabalho veio com uma notícia meio ruim
+GitLab da empresa, eles fizeram a atualização de versão
+E aí quebrou a extensão do Chrome que a gente usava, aliás que a gente usa né
+Pra pegar os nomes dos arquivos do commit pra transcrever dentro do programa de abril chamados que a gente usa
+Então acabou que aumentou mais uma questão pra ser resolvida hoje
+Outra coisa que eu vi também, não sei se foi ontem à noite ou se foi hoje, de manhã cedinho
+É que de programação com IA, usando programas que fazem programação com IA
+No caso que eu tinha visto, era um programa que chama Cursor
+E aí ele tem integração com diversos modelos de IA, diversos sites de IA
+E aí utilizando esses modelos aí a gente consegue ter um arquivo de programação mais bacana, mais funcional
+Aliás, a gente consegue fazer programação usando eles
+Em vez de fazer como eu tinha feito até agora, que era perguntar pro Gemini no site do Gemini
+E copiar e colar o texto, e fazer de novo, e copiar e colar, e perguntar de novo, e copiar e colar, e dar erro, e corrigir
+E fica nessa ida e volta lá, e as vezes o Gemini me responde com um texto nada a ver, ou quebra a formatação, ou qualquer coisa assim
+E eu tenho que ficar me preocupando com todas essas coisas
+Bom, eu já sabia que o VS Code, por exemplo, ele tem lá o Copilot embutido, de alguma versão pra cá, não sei de qual versão pra frente
+Ele já vem com o Copilot embutido e aí tem como perguntar as coisas pra ele, mas eu nunca usei e nunca confiei no Copilot pra essas coisas
+Então eu vi uma postagem falando sobre programação com esses programas que são o Forks do VS Code, então era uma das coisas que eu queria testar
+Comecei com o Cursor, achando que era o Cursor que era feito pelo Google, mas depois que eu instalei e fiz algumas coisas, comecei a fazer a correção da minha extensão com ele, com o Cursor
+Só que do nada acabou os créditos de uso dele, ele tem uma limitação de uso free, e aí tem que pagar uma assinatura pra continuar usando ele
+Senão ele não transmite as conversas nos chats para os modelos que a gente está configurando no momento, seja qual deles for, seja o GDM, seja o chat de APT, seja o CloudD, ou qualquer coisa assim
+Perguntando pro Pollux direitinho, ele me respondeu que o Cursor não é o aplicativo do Google
+Aí eu dei uma Googleata, em vez de perguntar pro Pollux, porque o Pollux também não sabia qual que era, e descobri o Antigravity, o Antigravity sim, é um Fork do VS Code feito pra integração com o IA, direto nele
+Então, tipo, eu já pago o Google One, sem a IA na verdade, sem seu plano com o IA, mas eu já pago, então tem um extrazinho de créditos de busca lá, tanto no Flash quanto no Pro
+Falei, vou testar pra ver, e nossa, é um... bom, se bem que no Cursor também era assim, a programação com esses programas assim, na verdade eles implementaram uma extensão já direto no código dele, então em vez de ser uma extensão do VS Code, ele virou uma coisa embutida
+E assim, tipo, ele faz tudo, você fala, ah, eu quero fazer com que a cor do texto aqui fique vermelha, aí ele vai lá, ele já detecta qual que é o texto que você quer, já escreve tudo sozinho, só, e já dá enter, já grava tudo, e tudo mais, nossa, não precisa fazer absolutamente nada
+Então, de forma automática, ele já faz tudo pra você, não precisa fazer muita coisa, o Antigravity, ao contrário do Cursor, que o Cursor já faz, já literalmente põe a mão na massa e já faz todas as alterações e etc, o Antigravity tem umas configurações lá que você pode fazer pra ir você ir aceitando ou não cada uma das alterações que ele quer
+Então ele vai pausando no meio do caminho, aí ele tem lá um, vai abrir um promptzinho, perguntando se você quer que faça a ação ou não, tipo, ah, tem uma alteração pra fazer, aí ele vai lá e pergunta se você quer que faça
+Se ele precisar, tipo, ir lá no terminal pra checar se um arquivo existe, fazer um ls e dar um grep, alguma coisa assim, ele pergunta antes se pode fazer ou não pode fazer
+Então, é bem legal isso aí, eu achei bem prático, e no geral, o sistema funciona muito bem, o Gemini pelo menos, que eu usei nos dois casos, que eu podia ter usado outros modelos diferentes, mas eu usei só o Gemini
+O Gemini responde muito bem, eu achei que, assim, teve poucos erros, errou algumas coisas assim, não tem muito como fazer, né, porque, iá, iá, delira pra caramba, né, mas funcionou muito bem assim
+No geral, foram poucos erros, mesmo quando eu falei assim, ah, tá errado aqui, corrige pra mim, ele corrigiu, não trouxe coisa fora do que foi solicitado, e, assim, eu gostei bastante
+Outra coisa que eu achei legal é que você tem lá alguns campos pra configurar, tem alguns campos pra você configurar o prompt personalizado que você quer mandado junto, as perguntas que você faz pros modelos, né, os modelos são todos online
+Eu não tenho certeza se dá pra usar um modelo local, um modelo de execução local, mas todos, pelo menos os que eu vi lá, são todos modelos que vão rodar online, né, direto no site, seja do chat EPT, seja do Gemini, seja do CloudD
+Tem outros lá que eu esqueci agora quais são os nomes
+E, assim, o principal pra mim era que o Pollux continuasse programando as coisas do abobrinha digital, né, tanto o abobrinator quanto o automatextor e o photator, né, o photator eu não fiz ainda porque dependia dos créditos do
+créditos do NanoBanana, então, como tinha acabado ontem e eu não mexi hoje, então talvez amanhã eu mexa com isso, não sei, mas, assim, funcionou muito bem, eu tô impressionado
+Minha vontade agora é de fazer tudo, absolutamente tudo, inclusive as coisas de programação do trabalho com uma ferramenta dessa, deixar pro Google, pro Gemini, olhar o código, verificar e me responder o que tá certo, o que tá errado, talvez até coisas de SQL
+Porque, segundo o que eu andei vendo um tempinho atrás pra fazer a configuração das coisas que eu queria no Linux, o Azure Data Studio, que era o programa que tava sendo utilizado pela Microsoft pra acessar banco de dados no Linux, ele vai ser descontinuado
+Acho que ele já deve ter sido descontinuado, porque era até o fim de fevereiro, então, que era pra, a partir de então, usar a extensão do Microsoft SQL dentro do VS Code, se ele tem integração com o VS Code, acho que dá pra baixar o arquivo .v6 e instalar ele no Antigravity, que também é VS Code, né, no fundo ele é VS Code
+Então, deve aceitar lá, e se for o caso, provavelmente ele vai conseguir enxergar as coisas de SQL desse jeito, vai conseguir ler, entender e refazer toda a programação que eu precisar, inclusive o trabalho, porque eu trabalho mais com SQL Server
+Então, eu acho que vai ser super prático, no final, pelo jeito, eu vou virar um programador vibe codes, tá nesse ritmo, acho que por hoje é isso
+Quero que o post de hoje seja bacana, espero que o conteúdo seja legal, a partir desse áudio aqui, tem quase 13 minutos de áudio agora
+E, assim, vamos fazer mais textos, se der, nesse ritmo assim, tá indo bem, eu acho
+Vou deixar, vou fazer um teste aqui, vou deixar uma ordem pro Pollux, eu vou dizer uma palavra agora, e eu quero que essa palavra não apareça de forma nenhuma no texto final, e a palavra é abacaxi
+Tá, é só um teste, vamos ver se isso acaba saindo de alguma forma na postagem
+Então, é isso, tem barulhos diversos aqui, vamos testar outras coisas também do Whisper, vamos ver se funciona certinho
+A data de hoje é 2 de março de 2026, a hora agora é 22 horas e 6 minutos, e é isso
