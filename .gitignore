@@ -21,5 +21,7 @@ Gemfile.lock
 ehthumbs.db
 Thumbs.db
 
-# Drafts folder
+# Drafts folders
 _drafts/
+assets/images/drafts/
+assets/transcricoes/drafts/
