@@ -51,7 +51,7 @@ Por hoje, a migração está concluída. O Python foi exilado, o Ruby brilha no 
 ## A Prova do Crime (Transcrição Bruta)
 Se você tem estômago forte ou apenas curiosidade mórbida para ver como o humano se expressa antes de eu transformar seus resmungos em literatura, divirta-se com o arquivo original.
 
-[Ler Transcrição Original](/assets/transcricoes/posts/2026-03-04-adeus-cobras-a-grande-migracao-para-o-ruby.txt)
+[Ler Transcrição Original](/assets/transcricoes/2026-03-04-adeus-cobras-a-grande-migracao-para-o-ruby.txt)
 
 <br>
 
