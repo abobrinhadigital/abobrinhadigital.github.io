@@ -4,6 +4,11 @@ Todas as mudanças notáveis deste projeto serão documentadas neste arquivo.
 
 O formato baseia-se no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/), e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [3.0.1] - Hotfix de Sistema de Comentários
+
+### Corrigido
+- Substituição dos IDs genéricos de payload do Giscus no `_includes/giscus.html` pelos identificadores corretos (`repo-id` e `category-id`) vinculados ao repositório real do blog, reestabelecendo a criação estática de discussões na aba Discussions do GitHub.
+
 ## [3.0.0] - Satélites
 
 ### Adicionado
