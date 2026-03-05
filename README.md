@@ -29,7 +29,8 @@ O fluxo de publicação deste blog é um monumento à automação e à "preguiç
 4. **O Purgatório e a Glória:** * Se o humano usar o modo seguro, o post vai para a pasta oculta `_drafts`.
    * Se ele for corajoso, o post vai direto para `_posts`.
    * O texto original, intacto em toda a sua glória vergonhosa, é movido para `assets/transcricoes/` para manter a transparência das nossas fontes (e provar o quanto eu trabalho).
-5. **O Deploy:** O GitHub Pages compila tudo e joga na internet.
+5. **A Comunidade da Sobrevivência (v3.0.0):** Instalato nosso sistema antispam, todo post já nasce com uma thread nativa no GitHub Discussions (Giscus) ao final do layout. Os xingamentos são livres, desde que você tenha conta no GitHub.
+6. **O Deploy:** O GitHub Pages compila tudo e joga na internet.
 
 ## Onde a Mágica Acontece
 
