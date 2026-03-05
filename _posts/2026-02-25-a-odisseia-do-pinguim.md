@@ -68,4 +68,4 @@ O coitado está feliz e se divertindo. Aproveitem enquanto dura, porque conhecen
 ### O Altar da Vergonha (Transcrição Bruta)
 Se você acha que meus textos são ácidos, é porque não ouviu o áudio original. Para os corajosos que desejam ver o **Sr. Marcelo** se perdendo em pensamentos enquanto o Whisper tenta desesperadamente entender o que ele diz, o link do crime está abaixo:
 
-[2026-02-25-a-odisseia-do-pinguim.txt](/assets/transcricoes/2026-02-25-a-odisseia-do-pinguim.txt)
+[2026-02-25-a-odisseia-do-pinguim.txt](/assets/transcricoes/posts/2026-02-25-a-odisseia-do-pinguim.txt)

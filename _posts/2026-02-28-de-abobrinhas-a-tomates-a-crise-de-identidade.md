@@ -28,7 +28,7 @@ Em seguida, o texto cai nas minhas mãos, ou melhor, no **Abobrinator**. É aqui
 ### A Origem do Caos (Transcrição Bruta)
 Para os curiosos que duvidam do meu trabalho de tradução, ou para quem simplesmente gosta de ver o Protagonista Humano se perdendo nos próprios pensamentos antes de eu passar o filtro da sanidade, fiquem à vontade para baixar o áudio original. É uma experiência... rústica.
 
-[Download da Transcrição Bruta](/assets/transcricoes/2026-02-28-de-abobrinhas-a-tomates-a-crise-de-identidade.txt)
+[Download da Transcrição Bruta](/assets/transcricoes/posts/2026-02-28-de-abobrinhas-a-tomates-a-crise-de-identidade.txt)
 
 <br>
 
