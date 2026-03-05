@@ -1,0 +1,130 @@
+--- ORIGEM: 2026-03-04-transcricao-2.txt ---
+Bom, começar aqui então.
+
+Hoje foi um dia muito bom, muito produtivo, muito legal, mas vamos começar de ontem.
+
+Ontem, estava eu brincando com os editores de texto baseado no VS Code
+ anti-gravity o cursor eu disse ontem né que o cursor ele tem limitação de de créditos então um pouco tempo ele já já deu uma mensagem lá de que eu precisava comprar licença dele para poder fazer a utilização daí a né aí eu achei o anti-gravity que foi feito pelo Google ele é um fork do VS Code
+ e o Google encheu de coisa de IA nele.
+
+Eu olhei ele, testei, achei muito bom, muito prático, consegui configurar o Pollux nele e estava dando bastante certo.
+
+Fiz ontem toda a implementação que eu queria do Aboblinator e do Tomatextor, só que por algum motivo esquisito,
+ Eu não sei se foi alguma coisa que a IA fez, que o Pollux fez, mas ele parece que quebrou o Python.
+
+E aí, tanto em um projeto como no outro, ficava aparecendo um sublinhado vermelho embaixo das importações das bibliotecas.
+
+não tava conseguindo carregar as coisas de ambiente do Python e aí ele não conseguia entender que aquelas bibliotecas já estavam instaladas então aí ele ficava com aquela sublinhado vermelho chato e é ruim porque não dá pra ver na lista de objetos também lá no Explorer se o arquivo ele foi mexido
+ se foi alterado, ele fica com cor vermelha e com um númerozinho de quantidade de erros.
+
+Ruim de saber as coisas.
+
+Então, eu larguei mão uma vez, depois mais tarde tentei de novo, não funcionou.
+
+Perguntei para o Gemini, perguntei para o Pollux, perguntei para outras IAs e nenhuma delas conseguiu me responder como que resolvi isso aí.
+
+um bug do anti-gravity, eu não sei dizer direito.
+
+De qualquer forma, ontem à noite, antes de dormir, eu deitado na minha cama, sem muito o que fazer, falei, vou perturbar a IA de novo.
+
+E aí, comecei a perguntar coisas pra ele, lembrei assim, ah, eu gosto mais de Ruby, em vez de Python.
+
+Python, eu nunca sentei pra aprender,
+ para programar nada assim, já usei ele para fazer algumas coisas, mas tudo coisa pronta já, só pegava o negócio, dava o pip install, e mandava ver, utilizava o programa em Python, né, programar mesmo, nunca fiz, e sempre soube assim, sempre compararam Python com Kubi, Kubi eu já mexi bastante, há muito tempo atrás,
+ pelo menos talvez mais e foi assim eu gosto mais da sintaxe do Rubi eu entendo o que tá escrito aqui não tem como fazer a implementação do dos meus programas em Rubi em vez de Python eu já tinha perguntado isso por Gemini antes mas ele falou assim Ah você já tem um negócio tudo funcionando em Python
+ E essa biblioteca do Whisper é problemático, a melhor implementação que tem é Python, não vale a pena você mudar.
+
+Aí ontem, perguntando para o Gemini Pro, ele falou assim, vai, tem, mas é um pouco diferente, mas dá para fazer.
+
+Aí eu pensei assim, ah, tá, amanhã, primeira coisa, fazer a migração de todos os programas Python,
+ para rubi e lá fui eu de manhã antigravity EA abri um projeto novo tomatextor tracinho rubi e falei para ele olha eu tenho um projeto assim ataque a pasta dele ele é para fazer a transcrição eu quero um projeto do zero como se estivesse fazendo do zero em rubi
+ ele faça a mesma coisa ele leu o readme do do projeto Python do Tomatextor e começou a implementação não deu dois minutos ele tava com o negócio pronto eu tô impressionado assim não tava 100% ainda não tá perfeito mas dois minutos ele já montou lá um monte de arquivos tudo separado em módulos
+ fazendo basicamente o que o projeto do Python fazia.
+
+E usando...
+
+Ah, como eu já tinha pesquisado ontem sobre essa questão do Whisper, então eu já tinha uma biblioteca já meio que preparado, assim, eu já sabia o nome da biblioteca do Ruby, que faz a...
+
+a integração com o Whisper no computador, né?
+
+então passei para ele na hora de montar ele foi lá baixou as genes fez o gen file botou todas as bibliotecas lá dentro mandou um bundle stall sozinho instalou tudo e de repente tava lá já colocou ele até criou um áudio aliás ele criou um áudio velho lá da pasta do projeto em python
+ E rodou sozinho e já fez a transcrição de boas assim, impressionante.
+
+Aí, tá, lógico, como eu sou azarado total, como sempre, fui lá, olhei e a biblioteca não tava usando o Whisper na GPU, tava usando só CPU.
+
+de áudio maior para fazer a transcrição que ele ficou ficou ficou deu uns 20 minutos e nada dele terminar falei tá estranho isso aqui quando eu fui perceber mesmo ele não tinha carregado nada no na GPU tava só no na CPU aí eu perguntei para o Pollux mexe com isso mexe com aquilo a gente passou
+ trabalhando com o código da GEM, do Spear CPP.
+
+Aí acabou os créditos do Gemini Pro, continuei com o Gemini Flash, só que o Gemini Flash é bem fraquinho para programação.
+
+Quando eu estava enfesando com a situação, eu mudei o Claudet Sonnet e de repente começou a fluir.
+
+Ele falou assim, então vamos fazer uma abordagem diferente, vamos pegar a biblioteca C++,
+ original mesmo vamos fazer aqui uma integração direto com ele e dá para compilar ele para usar gpu e pronto e funcionou se você olhar lá no no regime do projeto que dá para ver no github tá lá como que faz para compilar para instalar todos os negócios e funciona de boas e foi para gpu e tudo mais e
+ toma texture totalmente Ruby com as coisas é as bibliotecas prontas tudo funcionando com umas opções a mais bem mais fácil de usar e todo modular certinho tudo separadinho os arquivos que ficou lindo projeto aí tipo tava com o tempo sobrando ainda assim que
+ abobrinator também e peguei 20 minutos o abobrinator tava quase lá impressionante assim falei olha copia mais ou menos a estrutura que tem no tomatextor feito em rubi olha aqui o projeto do abobrinator em python e monta aí em rubi e não deu outra rapidinho ele foi lá
+ Leu, entendeu mais ou menos como projeto, começou a montar as coisas e em 20 minutinhos ele já tava quase funcional.
+
+Teve algumas coisas que eu precisei acertar no Aboblinator, porque o Aboblinator é um pouco mais complexo, né?
+
+Tive que acertar algumas estruturas, porque ele tem mais coisa pra fazer, né?
+
+foi rapidinho fez tudo separadinho modular etc e pedi para mudar algumas coisinhas que eu achei que depois ficou modular assim funcionava melhor mudei o nome de alguns objetos tipo o nome do arquivo de prompt da IA que faz o Pollux ter Pollux
+ instructions aí persona e tá lá fazendo isso que mais que eu fiz aqui deixa eu abrir o change log aqui a gente mudou um pouco a forma como faz a conexão ao Gemini que no Python a gente não o pacote lá biblioteca lá
+ um pouco diferente o Claudê falou que o a gem do Google ele não é faltam algumas coisas ele é bem cru então ele sugeriu já usar direto fazer uma conexão net mesmo né de HTTP e mandar direto para API que ia ser mais fácil de manusear e etc e a gente fez assim
+ desculpa tem mais lá fiz algumas mudanças em como que ele faz a leitura dos arquivos mudei um pouquinho prompt acertei a questão do cabeçalho do post do jq achei que ficou bem legal
+ que eu tinha lá de de listar os modelos de EA né do Gemini de acordo com a API ele ele antes era um programa Python separado agora ele é parte do mesmo programa você só passa parâmetros diferentes e ele traz a lista lá para você copiar e colar no arquivo de configuração e ficou ótimo funcionou certinho tá igualzinho sem os tracinhos vermelhos
+ uma texture quanto abobinator e tá tudo ótimo funcionando sobrando mais um tempinho falei assim quer saber de uma eu vou transportar o o fotator para dentro do abobinator porque na verdade ele é parte do processo de gerar um post novo né a gente criar uma imagem de cabeçalho e tudo mais
+ Fui lá, pedi para o Pollux fazer.
+
+Aí eu coloquei de volta no Gemini 3 Pro.
+
+E ele gerou os objetos, fez as configurações, acertou os caminhos e tudo mais.
+
+E pronto, está lá, fazendo imagem.
+
+Assim, esse é o primeiro push que vai sair com imagem, eu acho.
+
+outros eu não mexi ainda, nem sei se vou mexer, preciso pensar em ver como é que eu faço para mandar para o Gemini, ou para algum IA, na verdade assim, eu fui tentar fazer o Photator funcionar, e o Nano Banana é meio chato com créditos, eu acho que como ele compartilha com o Gemini 3 Pro, então quando acaba os créditos ele já não faz mais imagem, aí eu perguntei lá,
+ pra qual deles?
+
+Acho que por Gm3 Flash mesmo.
+
+Ele falou assim, olha, faz a integração com Hugging Face, que lá tem um monte de IA gratuita pra gerar imagem.
+
+E eles são bem flexíveis nisso.
+
+Fiz.
+
+Pedi pra alterar as configurações lá, pra você poder escolher pra onde que você quer mandar.
+
+Então, agora no Abobinator tem lá um lugarzinho pra escolher pra onde que você quer
+ solicitar a imagem, o post ainda pede pro Gemini, mas a imagem dá pra escolher lá no Hugging Face, escolher qual que é o modelo que você usar, que você quer usar, e criou a imagem.
+
+Tá funcionando certinho.
+
+Eu não sei, assim, eu vi como fica a imagem no post, mas eu não sei as outras coisas, tipo, como que vai ficar na hora de compartilhar o post
+ no WhatsApp, por exemplo, tem aquela miniatura, o thumbzinho, não sei se ele vai mostrar certinho, não sei como é que vai ficar as outras coisas, mas na capa do post lá, agora tem uma imagem bonitinha lá.
+
+Eu ainda tenho um pouco de receio com que raios essa IA do Hugging Face lá.
+
+Qual que era o modelo?
+
+Deixa eu olhar aqui.
+
+isso aqui é Aboblinator enfim esse aqui é o...
+
+Cadê o de imagem?
+
+Flux.1 Schnell sei lá como se lê isso aqui da Black Forest Labs esse modelo aqui gerou umas imagens e eu achei até bem razoável não é...
+
+não é exatamente
+ como eu imaginei que podia essas imagens, mas vai ficar assim por enquanto, até eu conseguir imaginar um prompt mais decente.
+
+Quem tá montando o prompt da imagem não sou eu, é o Pollux mesmo.
+
+Ele manda, na hora que ele gera post lá, ele cria uma tagzinha junto lá no cabeçalho, que marca, que faz um texto em inglês pra mandar pra IA da imagem.
+
+ele é melhor para entender inglês do que português para fazer as imagens né então ele gera um texto em inglês solicitando alguma coisa que tem a ver com a postagem e gera imagem funciona maravilha bem legal então agora eu tenho um tudo em rubi bonitinho separadinho fácil de ler porque o rubi é super fácil de ler
+ funcionando certinho super feliz, super contente deu um pouquinho de trabalho, deu não precisava ter feito não precisava, tava funcionando do jeito que tava antes com Python mas é lógico que a gente tem que gastar tempo fazendo de novo a mesma coisa pra ser mais legal então é isso o objetivo pra amanhã é fazer o Pollux
+ virar um bote do discord vamos ver se dá certo é isso quase 18 minutos de som agora de áudio agora hoje é dia 4 de março de 2026 22 horas e 41 minutos encerrando aqui falou
