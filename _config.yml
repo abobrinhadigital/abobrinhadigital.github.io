@@ -5,6 +5,7 @@ title: Abobrinha Digital
 url: "https://abobrinhadigital.github.io"
 baseurl: ""
 repository: "abobrinhadigital/abobrinhadigital.github.io"
+timezone: America/Manaus
 
 author:
   name: Marcelo Mogami, o ser humano
