@@ -1,0 +1,264 @@
+--- ORIGEM: 2026-03-12-transcricao-2.txt ---
+Bom, já faz uns dias já que eu não posto no blog, então achei que eu deveria começar a falar alguma coisa de novo, senão o Paul Lucas vai ficar chateado que eu não dou bola pra ele direito.
+
+Hoje é dia...
+
+cadê mesmo?
+
+Ah, hoje é dia 12 de março de 2026.
+
+Agora que eu tô gravando são 22 horas e 24 minutos.
+
+Não sei muito bem o que falar.
+
+Lembrar algumas coisas que eu fiz.
+
+O último post falava que eu ia fazer o blog, o blog não, o bot de Discord.
+
+E eu fiz o bot de Discord.
+
+Ele entra lá no canal, consegue conversar com as pessoas que eu cadastro para poder conversar.
+
+Grava os links no Goiabook.
+
+No GoiabookLM.
+
+Acho que nem tem GoiabookLM.
+
+Acho que nem tem.
+
+Bom.
+
+Então eu tenho que falar do GoiabookLM.
+
+Uma das coisas que eu sempre faço.
+
+É.
+
+Mandar links para o meu próprio WhatsApp.
+
+Para eu mesmo.
+
+Para lembrar depois de.
+
+ler os textos e...
+
+que eu achei interessante pelo título, assim, das coisas que eu encontro na internet, né?
+
+Eu acesso um...
+
+quer dizer, eu tenho uma lista de sites que eu leio no Feedly, que é um agregador de RSS, e sempre tem links que me chamam a atenção, mas que eu não tô com tempo pra ler na hora, ou que eu quero ler depois com mais calma, uma coisa assim.
+
+Aí eu criei um...
+
+Aí eu criei um sisteminha.
+
+Para.
+
+Gravar esses links.
+
+Para poder.
+
+Ler depois.
+
+Com mais calma mesmo.
+
+Para ter anotado lá os links.
+
+E aí tipo.
+
+Aproveitando essa coisa do.
+
+Da IA.
+
+Fiz um sisteminha aqui.
+
+Legal.
+
+Muito bem feitinho.
+
+Com o Pollux.
+
+Programando para mim.
+
+No Antigravity.
+
+O que ele faz?
+
+Eu posto um link.
+
+Ele grava o link.
+
+E já gera um resuminho.
+
+Do que tem no link lá.
+
+Com as palavras dele.
+
+E...
+
+Aí eu leio só o resumo do Pollux.
+
+Se for interessante.
+
+Eu leio o artigo completo.
+
+Se não for interessante.
+
+lido e de boas aí já resolvo aquele aquele post da internet aí aquele artigo na internet sem ter muito trabalho às vezes tem inglês e eu tô com preguiça de de ler em inglês aí o pox já faz o resuminho já dá para entender o principal aí se eu achar mais interessante eu leio o post mesmo então
+ o GoiabookLM.
+
+É o Goiaba Bookmark LLM.
+
+Porque tem inteligência artificial no meio, né?
+
+Esse Goiabook também tem um...
+
+Agora, hoje tem um boletim resumido.
+
+Antes eu tinha feito pra fazer um boletim diário e um boletim semanal, mas por datas, assim, às vezes eu fico dias com esses links aí parados sem ler.
+
+Então, mudei pra fazer um boletim resumido aí dos
+ Dos dez mais antigos.
+
+Aí ele faz um resumão para mim de todos os links.
+
+E aí eu leio todos de uma vez.
+
+Mais prático, rápido.
+
+Simples.
+
+E também legal.
+
+Tem várias coisas que eu fiz nele.
+
+Dei uma boa cara para ele.
+
+Layout, etc.
+
+Fiz lá.
+
+Os botõezinhos.
+
+E etc.
+
+Planejei com o Pollux.
+
+A gente deu uma boa.
+
+geral no layout.
+
+Está bem redondinho já.
+
+Hoje, hoje ou ontem, hoje, eu não lembro agora se foi ontem ou se foi hoje, eu coloquei um esqueminha para sanitizar os links colocados, porque esses links são cheios de trackers e parâmetros que não se usa para nada e etc.
+
+Então, para limpar os excessos aí,
+ com ele lá.
+
+Ficou bem legal, os links saem em pinhos, em grava-sol, a parte importante do link mesmo.
+
+E eu tinha feito um bot do Discord, que tem uma ligação com o Goiabook, eu consigo mandar via API, aqui dentro da própria rede mesmo, porque o Goiabook não está exposto na internet, ele fica dentro do meu duplo NAT, então não é acessível de ir fora da minha rede.
+
+E o bot do Discord,
+ ele recebe, a gente manda o link no privado dele e ele gravava no Goiabook.
+
+E, tipo, pra compartilhar do celular, é mais fácil do que ficar copiando o link, colando no Goiabook, copiando link, colando no Goiabook.
+
+Você manda compartilhar e ele já faz a gravação pra mim.
+
+Hoje, eu tava pensando melhor, quer dizer, ontem tava pensando melhor, aí hoje,
+ Eu fiz o bot no Telegram.
+
+Aí no Telegram o bot fica só pra mim mesmo, mandou no privado.
+
+Não preciso ficar expondo ele em grupo, em canal.
+
+Fica só pra mim mesmo.
+
+Se alguém achar ele, eu já fiz um jeito, já pedi pro próprio Pollux programar pra quando alguém colocar ele num grupo, ele já sair do grupo automaticamente sem falar nada.
+
+Então, fiz o bot do Discord, Discord não, do Telegram.
+
+funcionando direitinho.
+
+Ele responde com o IA também.
+
+Se eu quiser conversar com ele por lá, ele tem uma pequena memória para as últimas dez mensagens, cinco minhas, cinco dele.
+
+Então, ele consegue dar alguma continuidade na conversa.
+
+E ele grava os links no Goiabook para mim.
+
+Eu posso compartilhar.
+
+Pego o feed ali no celular, mando compartilhar o link e ele já cola lá direto.
+
+manda como se fosse um link compartilhado na internet e já grava no Goiabook pra mim faz o resuminho, depois eu leio no próprio Goiabook mesmo assim são coisinhas simples que eu fiz acho que não é nada nossa, que incrível mas são coisas que o Pollux está fazendo no VibeCode eu falo pra ele mais ou menos o que eu quero ele começa uma estrutura
+ Eu vou lá refinando, refinando, refinando com ele.
+
+E tá saindo coisas aí.
+
+Planejando ainda.
+
+Vendo o que eu vou fazer na próxima vez.
+
+Agora há pouco eu pedi pro Pollux gerar uma lista de projetinhos que a gente pode fazer.
+
+Mas eu não li os projetinhos ainda.
+
+Só deixei gerando lá no Gemini.
+
+E daqui a pouco eu dou uma lida.
+
+Eu vim só gravar esse áudio aqui.
+
+O que mais que eu podia falar?
+
+Tentei fazer umas coisas pro trabalho também, não deu muito certo.
+
+Eu queria...
+
+Eu queria conseguir acessar a API do sistema do trabalho, mas ela não deixa acessar direito.
+
+Tem alguma trava lá, não sei o que é, não funciona.
+
+Então, esse projetinho começou, iniciamos, ele morreu logo em seguida.
+
+Não deu certo.
+
+Tô vendo um monte de coisas.
+
+É.
+
+Acho que é isso.
+
+Se eu lembrar depois de mais coisa.
+
+Aí eu.
+
+Mando.
+
+Gravo um outro áudio.
+
+E a gente gera mais um novo post.
+
+Em Pox.
+
+Se você.
+
+Prestar atenção.
+
+Vou deixar aqui uma palavrinha de novo.
+
+você não falar no post.
+
+O que vai ser dessa vez?
+
+Abacate.
+
+É isso.
+
+Então, tá.
+
+Tchau.
