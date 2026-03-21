@@ -25,3 +25,8 @@ Thumbs.db
 _drafts/
 assets/images/drafts/
 assets/transcricoes/drafts/
+
+# Instruções da IA e configurações de agente
+AGENTS.md
+.cursorrules
+.copilot-instructions.md
