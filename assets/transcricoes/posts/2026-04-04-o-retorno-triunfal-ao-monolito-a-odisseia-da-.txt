@@ -1,0 +1,120 @@
+--- ORIGEM: 2026-04-04-transcricao-1.txt ---
+Então, vamos lá.
+
+Já fazia um tempo que eu estava querendo fazer um post novo, mas estava sem muita ideia, sem muita motivação para isso.
+
+Vamos ver se o Pollux tira alguma coisa desse áudio meio desconexo, sem sentido e sem muito objetivo no final.
+
+Eu senti que deu uma parada assim no abobrinha,
+ Não acho que tá evoluindo muita coisa.
+
+A última coisa que...
+
+Que coloquei no ar foi o Mangofier.
+
+Junto com o Pessegram, né?
+
+É, o Pessegram acho que foi o último, né?
+
+Que eu transformei as coisas do...
+
+Damascord pro Pessegram.
+
+O bot do Telegram.
+
+Sei lá, eu...
+
+Tinha uma ideia legal de fazer um...
+
+Do projetinho do Hype Hunters.
+
+que a gente chamou dessa forma foi uma ideia meio que bolada junto com o Pollux a ideia era através do mangá updates pelo sistema de ranking que ele tem a gente conseguiu tentar descobrir mangás em ascensão de ranking que tivesse subido o ranking bastante ou coisa assim pra descobrir coisas novas
+ aí a ideia estava tudo certinho, as coisas estavam encaminhando, estava tudo planejado até eu descobri que a API do mangaupdates simplesmente não retorna o ranking nas buscas, nem na listagem de releases, nem na listagem de
+ da minha lista de leitura da wishlist também não traz então eu ia ter que ficar pingando mangá por mangá pra saber o ranking dos mangás pra poder descobrir o mangá em ascensão isso é inviável com tanto de mangá que sai todo dia não dá certo
+ frente porque o fair use da API vai para o espaço, né?
+
+Aí, me deu uma desmotivada assim, fiquei meio triste, chateado que isso não foi pra frente.
+
+Aí, durante essas semanas aí, eu sinto que evoluiu muita coisa.
+
+Fiz duas extensões de Chrome pra coisas do trabalho lá, coisinha simples e
+ Meio aleatório.
+
+Nada muito grande coisa.
+
+Aí eu...
+
+Estava meio desmotivado da vida e tudo mais.
+
+As coisas são meio desorganizadas para mim.
+
+Eu vi um videozinho.
+
+Como eu estou consumindo muita coisa de IA.
+
+Para tentar aprender algumas coisas diferentes.
+
+Ter umas ideias diferentes.
+
+Para conseguir usar os programas de forma diferente.
+
+eu vi que a pessoa usou obsidian que é um desses gravador de notas um desses programas que onde você escreve notas né e aí ele tinha lá uns esquemas com com eu acho que é com Claude Code eu não tenho certeza também que aí montou lá e falei assim ah que legal testar esse obsidian
+ Aí fiz aqui, criei um repositório do Obsidian aqui, aí tô tentando organizar meu dia a dia, colocando notas diárias e tentando organizar minhas tarefas.
+
+Não sinto que foi muito pra frente não, assim ficou mais visual.
+
+E aí tem aquela visão de links e órbita e não sei o que lá dos planetinhas, é bonitinho, mas sei lá, tá mais ou menos só, não tá muito grande coisa.
+
+E aí, nessas daí, tô marcando lá as ideias no Obsidian lá, que eu tô tendo, etc.
+
+E hoje que eu inventei de pegar os serviços, os microserviços que eu tenho do abobrinha, o Mungo Fire, o Goiabook, e transformar num monolitozão.
+
+Eu vi um vídeo, um vídeo do...
+
+Mano Deyvin falando do método Akita de fazer de Vibe code e aí eu falo que o Akita tá com umas ideias diferentes lá né de usando IA também usando Vibe code mas a mesma coisa que eu tô fazendo aqui só que ele tem uma máquina parruda ele consegue fazer tudo local etc
+ enquanto eu faço tudo online, né?
+
+E tem que ficar esperando as 5 horas do Claude Code, do Gemini, etc.
+
+Um pouco improdutivo, né?
+
+Mas aí ele falou assim de fazer que ele tá fazendo um grande monolitozão lá, um monorepo gigante.
+
+E aí, tipo, por ser um monorepo, né?
+
+Por tá tudo num monolito, é tudo muito integrado.
+
+Então que ele tem que é fácil de
+ de uma coisa, gerar outra, gerar outra, e assim ele vai acoplando mais coisas e fazendo tudo ficar um um projeto só com várias frentes diferentes, né?
+
+Ah, quer saber de uma?
+
+Se eu ressuscitar o Damascord, eu tenho um ponto único, com um bot único, porque o Discord tem a questão dos canais, então eu crio vários canais lá no meu servidor pra
+ pra fazer cada uma das coisas e...
+
+ponho tudo numa coisa só, goiabook, lm e o...
+
+e o mangofier numa coisa só e aí tudo se conversa de forma fácil lá e quem sabe no futuro também já coloca o abobinator, o tomatextor e etc junto lá no mesmo repositório pra funcionar tudo junto
+ Já está mais ou menos na metade do procedimento.
+
+Tive que esperar cinco horas, duas vezes já.
+
+Para fazer o negócio.
+
+Acabou de liberar agora o tempo da sessão.
+
+Vou começar a mexer mais um pouquinho antes de dormir.
+
+E é isso.
+
+Acho que...
+
+Tenho sete minutos de áudio.
+
+Deve dar para escrever algum post com isso.
+
+Sei lá.
+
+Não estou me sentindo muito produtivo.
+
+para coisas pessoais mesmo com esses 7 minutos de áudio que saiu agora então é isso faz um bom trabalho com o Audio, Pollux
