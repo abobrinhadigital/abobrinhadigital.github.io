@@ -1,0 +1,48 @@
+---
+---
+# robots.txt — {{ site.title }}
+# {{ site.url }}
+
+# Crawlers gerais
+User-agent: *
+Allow: /
+Disallow: /assets/transcricoes/
+Disallow: /_drafts/
+
+# GPTBot (OpenAI)
+User-agent: GPTBot
+Disallow: /
+
+# OAI-SearchBot (OpenAI Search)
+User-agent: OAI-SearchBot
+Disallow: /
+
+# Claude-Web (Anthropic)
+User-agent: Claude-Web
+Disallow: /
+
+# Google-Extended (Gemini, Vertex AI)
+User-agent: Google-Extended
+Disallow: /
+
+# CCBot (Common Crawl — base de muitos LLMs)
+User-agent: CCBot
+Disallow: /
+
+# Amazonbot
+User-agent: Amazonbot
+Disallow: /
+
+# Meta-ExternalAgent (Meta AI)
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+# Bytespider (ByteDance/TikTok)
+User-agent: Bytespider
+Disallow: /
+
+# Content Signals — preferências de uso por IA
+# Referência: https://contentsignals.org/
+Content-Signal: ai-train=no, search=yes, ai-input=no
+
+Sitemap: {{ site.url }}/sitemap.xml
